@@ -1,5 +1,5 @@
 CREATE SCHEMA dannys_diner;
-SET search_path = dannys_diner;
+-- SET search_path = dannys_diner;
 
 CREATE TABLE dannys_diner.sales (
     customer_id VARCHAR(1),
